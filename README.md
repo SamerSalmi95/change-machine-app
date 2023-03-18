@@ -1,6 +1,6 @@
 ## Getting Started
 
-### `yarn start`
+### `yarn dev`
 
 to launch the project
 
